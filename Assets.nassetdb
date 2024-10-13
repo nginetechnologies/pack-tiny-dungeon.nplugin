@@ -1,0 +1,16 @@
+{
+    "1a9084d1-e224-9f37-ec99-38f965af32be": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Tiny_Dungeon_Thumb.tex.nasset"
+    },
+    "3e4dca7f-4bf5-419a-8d8e-f6c7289e2162": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin",
+        "name": "Tiny Dungeon Assets"
+    },
+    "d000084f-b923-f77e-6b0d-66166038c5ba": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Objects/T_Tiny_Dungeon_D.tex.nasset"
+    },
+    "guid": "335044ec-6f50-5e96-2548-76881864fd07"
+}

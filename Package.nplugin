@@ -3,7 +3,7 @@
     "version": "1.0",
     "guid": "3e4dca7f-4bf5-419a-8d8e-f6c7289e2162",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
-    "database_guid": "95df5db7-8ae7-4e3a-8d5f-fd29afc32be3",
+    "database_guid": "335044ec-6f50-5e96-2548-76881864fd07",
     "asset_directory": "Assets",
     "plugin_dependencies": [
 		"4cc21fd4-730f-475d-9807-fbf9e5595308",
